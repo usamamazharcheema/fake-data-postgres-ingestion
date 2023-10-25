@@ -1,4 +1,4 @@
-I have built a small pipeline that handles the insertion of fake data into both a CSV file and a PostgreSQL table using Apache Airflow.
+This small pipeline performs the task of fake data insertion into both a CSV file and a PostgreSQL table using Apache Airflow.
 
 To run this pipeline, you can use the following command: docker-compose up. Once it's up and running, you can inspect the output through either of the following methods:
 
